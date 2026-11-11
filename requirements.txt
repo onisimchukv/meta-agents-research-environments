@@ -19,7 +19,7 @@ pandas==2.2.3
 pathvalidate==3.2.1
 pdfminer.six==20231228
 phonenumbers==8.13.53
-pillow==11.1.0
+pillow==12.3.0
 polars-lts-cpu==1.33.1
 puremagic==1.27
 pydantic==2.10.6
